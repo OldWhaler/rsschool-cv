@@ -1,25 +1,26 @@
-Savin Dmitrii
+# Savin Dmitrii
 
-Contacts:
-Location: Saint-Petersburg, Russia
-Phone: +7 905 284-76-71
-Email: savin.mailbox@yandex.ru
-GitHub: OldWhaler
-Discord RSS: Dmitrii Savin (@OldWhaler)
+__Contacts:__
+- Location: Saint-Petersburg, Russia
+- Phone: +7 905 284-76-71
+- Email: <savin.mailbox@yandex.ru>
+- GitHub: OldWhaler
+- Discord RSS: Dmitrii Savin (@OldWhaler)
 
-About Me:
-After graduating from university, I worked in sales for a long time. The last 10 years in the online store. Regular problems and improvements to the site aroused my interest in front-end development. I started learning html, css and javascript on my own. On a course in RSS I want to systematize knowledge, fill in the gaps. I am a family guy and I have the most serious intentions in programming - to provide a good future for my children. However, the programming process itself brings me pleasure. Endorphins after completing tasks are great :)
+__About Me:__
+>After graduating from university, I worked in sales for a long time. The last 10 years in the online store. Regular problems and improvements to the site aroused my interest in front-end development. I started learning html, css and javascript on my own. On a course in RSS I want to systematize knowledge, fill in the gaps. I am a family guy and I have the most serious intentions in programming - to provide a good future for my children. However, the programming process itself brings me pleasure. Endorphins after completing tasks are great :)
 
-Skills:
-HTML
-CSS/SCSS
-JavaScript
-Node.js 
-React 
-Git
-VS Code
+__Skills:__
+- HTML
+- CSS/SCSS
+- JavaScript
+- Node.js (completed a simple online course [itgid.info](https://itgid.info/ "Site with courses Alex Lushchenko"))
+- React ( [reactjs.org](https://ru.reactjs.org/docs/getting-started.html "React documentation") selfeducation)
+- Git
+- VS Code
 
-Code example:
+__Code example:__
+```javascript
 function nthFibo(n) {
   if (n === 1) return 0;
 
@@ -31,15 +32,13 @@ function nthFibo(n) {
   }
   return b
 }
-
-Education:
-University: ITMO University, St. Petersburg
+```
+__Education:__
+- University: [ITMO University, St. Petersburg](https://itmo.ru/ "Website ITMO University")
   
-Courses:
-ItGit
-HTML Academy
+- Courses:
+    - [ItGit](https://itgid.info/ "Site with courses Alex Lushchenko")
+    - [HTML Academy](https://htmlacademy.ru/ "Website HTML Academy")
 
-English:
+__English:__
  A1 (improve by self-study)
-
-
