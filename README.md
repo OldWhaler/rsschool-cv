@@ -1,1 +1,1 @@
-https://OldWhaler.github.io/rsschool-cv/cv
+https://OldWhaler.github.io/rsschool-cv/
